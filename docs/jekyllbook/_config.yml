@@ -1,0 +1,60 @@
+permalink:           pretty
+
+# Setup
+title:               'JekyllBook'
+tagline:             'A Jekyll theme'
+url:                 https://ebetica.github.io/jekyllbook/
+baseurl:             '/jekyllbook'
+homepage_title:      Home
+default_lang:        'en'
+
+# About/contact
+author:
+  name:              Zeming Lin
+  url:               https://twitter.com/ebetica
+github:
+  repo:              https://github.com/ebetica/jekyllbook/
+
+# Custom vars
+version:             1.0.0
+
+src:                 "."
+default_theme:       "ayu"
+
+# To use hljs, disable the default highlighter
+# We also use a built-in math engine so gotta disable that too
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+  math_engine: null
+
+exclude:
+  - README.md
+
+# Chapter Configuration (up to a 2 level nested list)
+
+prologues:
+  - path: chapters/prologue.md
+    sections:
+      - path: chapters/prologue2.md
+chapters:
+  - path: chapters/01.md
+    sections:
+      - path: chapters/01-1.md
+      - path: chapters/01-2.md
+  - path: chapters/02.md
+epilogues:
+  - path: chapters/epilogue.md
+
+
+# If you want to support multiple languages
+zh:
+  title: 'JekyllBook but in Chinese'
+  tagline: 'A translated Jekyll theme'
+  chapters:
+    - path: zh/01.md
+      sections:
+        - path: zh/01-1.md
+        - path: zh/01-2.md
+    - path: zh/02.md
+
