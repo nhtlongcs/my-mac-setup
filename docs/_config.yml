@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               'Deep Learning'
+title:               'My Mac Setup'
 url:                 https://nhtlongcs.github.io
-baseurl:             '/my-mac-setup' # / + your base url 
+baseurl:             '/docs/materials/my-mac-setup' # / + your base url 
 homepage_title:      Home
 default_lang:        'en'
 
