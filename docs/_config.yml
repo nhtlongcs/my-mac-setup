@@ -2,17 +2,17 @@ permalink:           pretty
 
 # Setup
 title:               'Deep Learning'
-url:                 https://atcold.github.io/NYU-DLSP20/
-baseurl:             '/NYU-DLSP20'
+url:                 https://nhtlongcs.github.io/archive/NYU-DLSP20/
+baseurl:             'archive/NYU-DLSP20/'
 homepage_title:      Home
 default_lang:        'en'
 
 # About/contact
 author:
-name:                atcold
-url:                 https://twitter.com/alfcnz
+name:                nhtlongcs
+url:                 https://twitter.com/nhtlongcs
 github:
-  repo:              https://github.com/atcold/NYU-DLSP20
+  repo:              https://github.com/nhtlongcs/NYU-DLSP20
 
 # Custom vars
 version:             dlsp20
