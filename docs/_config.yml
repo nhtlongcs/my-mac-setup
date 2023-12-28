@@ -2,8 +2,8 @@ permalink:           pretty
 
 # Setup
 title:               'Deep Learning'
-url:                 https://nhtlongcs.github.io/archive/NYU-DLSP20/
-baseurl:             'archive/NYU-DLSP20/'
+url:                 https://nhtlongcs.github.io/my-mac-setup/
+baseurl:             'my-mac-setup/'
 homepage_title:      Home
 default_lang:        'en'
 
@@ -12,10 +12,10 @@ author:
 name:                nhtlongcs
 url:                 https://twitter.com/nhtlongcs
 github:
-  repo:              https://github.com/nhtlongcs/NYU-DLSP20
+  repo:              https://github.com/nhtlongcs/my-mac-setup
 
 # Custom vars
-version:             dlsp20
+version:             0.0.1
 
 src:                 "."
 default_theme:       "ayu"
