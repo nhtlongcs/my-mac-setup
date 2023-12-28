@@ -46,156 +46,85 @@ prologues:
   - path: en/faq.md
   - path: en/about.md
 chapters:
-  - path: en/week01/01.md
-    sections:
-      - path: en/week01/01-1.md
-      - path: en/week01/01-2.md
-      - path: en/week01/01-3.md
-  - path: en/week02/02.md
-    sections:
-      - path: en/week02/02-1.md
-      - path: en/week02/02-2.md
-      - path: en/week02/02-3.md
-  - path: en/week03/03.md
-    sections:
-      - path: en/week03/03-1.md
-      - path: en/week03/03-2.md
-      - path: en/week03/03-3.md
-  - path: en/week04/04.md
-    sections:
-      - path: en/week04/04-1.md
-  - path: en/week05/05.md
-    sections:
-      - path: en/week05/05-1.md
-      - path: en/week05/05-2.md
-      - path: en/week05/05-3.md
-  - path: en/week06/06.md
-    sections:
-      - path: en/week06/06-1.md
-      - path: en/week06/06-2.md
-      - path: en/week06/06-3.md
-  - path: en/week07/07.md
-    sections:
-      - path: en/week07/07-1.md
-      - path: en/week07/07-2.md
-      - path: en/week07/07-3.md
-  - path: en/week08/08.md
-    sections:
-      - path: en/week08/08-1.md
-      - path: en/week08/08-2.md
-      - path: en/week08/08-3.md
-  - path: en/week09/09.md
-    sections:
-      - path: en/week09/09-1.md
-      - path: en/week09/09-2.md
-      - path: en/week09/09-3.md
-  - path: en/week10/10.md
-    sections:
-      - path: en/week10/10-1.md
-      - path: en/week10/10-2.md
-      - path: en/week10/10-3.md
-  - path: en/week11/11.md
-    sections:
-      - path: en/week11/11-1.md
-      - path: en/week11/11-2.md
-      - path: en/week11/11-3.md
-  - path: en/week12/12.md
-    sections:
-      - path: en/week12/12-1.md
-      - path: en/week12/12-2.md
-      - path: en/week12/12-3.md
-  - path: en/week13/13.md
-    sections:
-      - path: en/week13/13-1.md
-      - path: en/week13/13-2.md
-      - path: en/week13/13-3.md
-  - path: en/week14/14.md
-    sections:
-      - path: en/week14/14-1.md
-      - path: en/week14/14-2.md
-      - path: en/week14/14-3.md
-  - path: en/week15/15.md
-    sections:
-      - path: en/week15/15-1.md
-      - path: en/week15/15-2.md
-#epilogues:
+  - path: en/BashCompletion/README.md
+    sections: []
 #  - path: chapters/end.md
 
-################################### Mandarin ###################################
-zh:
-  title: '深度学习'
-  prologues:
-    - path: zh/about.md
-  chapters:
-    - path: zh/week01/01.md
-      sections:
-        - path: zh/week01/01-1.md
-        - path: zh/week01/01-2.md
-        - path: zh/week01/01-3.md
-    - path: zh/week02/02.md
-      sections:
-        - path: zh/week02/02-1.md
-        - path: zh/week02/02-2.md
-        - path: zh/week02/02-3.md
-    - path: zh/week03/03.md
-      sections:
-        - path: zh/week03/03-1.md
-        - path: zh/week03/03-2.md
-        - path: zh/week03/03-3.md
-    - path: zh/week04/04.md
-      sections:
-        - path: zh/week04/04-1.md
-    - path: zh/week05/05.md
-      sections:
-        - path: zh/week05/05-1.md
-        - path: zh/week05/05-2.md
-        - path: zh/week05/05-3.md
-    - path: zh/week06/06.md
-      sections:
-        - path: zh/week06/06-1.md
-        - path: zh/week06/06-2.md
-        - path: zh/week06/06-3.md
-    - path: zh/week07/07.md
-      sections:
-        - path: zh/week07/07-1.md
-        - path: zh/week07/07-2.md
-        - path: zh/week07/07-3.md
-    - path: zh/week08/08.md
-      sections:
-        - path: zh/week08/08-1.md
-        - path: zh/week08/08-2.md
-        - path: zh/week08/08-3.md
-    - path: zh/week09/09.md
-      sections:
-        - path: zh/week09/09-1.md
-        - path: zh/week09/09-2.md
-        - path: zh/week09/09-3.md
-    - path: zh/week10/10.md
-      sections:
-        - path: zh/week10/10-1.md
-        - path: zh/week10/10-2.md
-        - path: zh/week10/10-3.md
-    - path: zh/week11/11.md
-      sections:
-        - path: zh/week11/11-1.md
-        - path: zh/week11/11-2.md
-        - path: zh/week11/11-3.md
-    - path: zh/week12/12.md
-      sections:
-        - path: zh/week12/12-1.md
-        - path: zh/week12/12-2.md
-        - path: zh/week12/12-3.md
-    - path: zh/week13/13.md
-      sections:
-        - path: zh/week13/13-1.md
-        - path: zh/week13/13-2.md
-        - path: zh/week13/13-3.md
-    - path: zh/week14/14.md
-      sections:
-        - path: zh/week14/14-1.md
-        - path: zh/week14/14-2.md
-        - path: zh/week14/14-3.md
-    - path: zh/week15/15.md
-      sections:
-        - path: zh/week15/15-1.md
-        - path: zh/week15/15-2.md
+# ################################### Mandarin ###################################
+# zh:
+#   title: '深度学习'
+#   prologues:
+#     - path: zh/about.md
+#   chapters:
+#     - path: zh/week01/01.md
+#       sections:
+#         - path: zh/week01/01-1.md
+#         - path: zh/week01/01-2.md
+#         - path: zh/week01/01-3.md
+#     - path: zh/week02/02.md
+#       sections:
+#         - path: zh/week02/02-1.md
+#         - path: zh/week02/02-2.md
+#         - path: zh/week02/02-3.md
+#     - path: zh/week03/03.md
+#       sections:
+#         - path: zh/week03/03-1.md
+#         - path: zh/week03/03-2.md
+#         - path: zh/week03/03-3.md
+#     - path: zh/week04/04.md
+#       sections:
+#         - path: zh/week04/04-1.md
+#     - path: zh/week05/05.md
+#       sections:
+#         - path: zh/week05/05-1.md
+#         - path: zh/week05/05-2.md
+#         - path: zh/week05/05-3.md
+#     - path: zh/week06/06.md
+#       sections:
+#         - path: zh/week06/06-1.md
+#         - path: zh/week06/06-2.md
+#         - path: zh/week06/06-3.md
+#     - path: zh/week07/07.md
+#       sections:
+#         - path: zh/week07/07-1.md
+#         - path: zh/week07/07-2.md
+#         - path: zh/week07/07-3.md
+#     - path: zh/week08/08.md
+#       sections:
+#         - path: zh/week08/08-1.md
+#         - path: zh/week08/08-2.md
+#         - path: zh/week08/08-3.md
+#     - path: zh/week09/09.md
+#       sections:
+#         - path: zh/week09/09-1.md
+#         - path: zh/week09/09-2.md
+#         - path: zh/week09/09-3.md
+#     - path: zh/week10/10.md
+#       sections:
+#         - path: zh/week10/10-1.md
+#         - path: zh/week10/10-2.md
+#         - path: zh/week10/10-3.md
+#     - path: zh/week11/11.md
+#       sections:
+#         - path: zh/week11/11-1.md
+#         - path: zh/week11/11-2.md
+#         - path: zh/week11/11-3.md
+#     - path: zh/week12/12.md
+#       sections:
+#         - path: zh/week12/12-1.md
+#         - path: zh/week12/12-2.md
+#         - path: zh/week12/12-3.md
+#     - path: zh/week13/13.md
+#       sections:
+#         - path: zh/week13/13-1.md
+#         - path: zh/week13/13-2.md
+#         - path: zh/week13/13-3.md
+#     - path: zh/week14/14.md
+#       sections:
+#         - path: zh/week14/14-1.md
+#         - path: zh/week14/14-2.md
+#         - path: zh/week14/14-3.md
+#     - path: zh/week15/15.md
+#       sections:
+#         - path: zh/week15/15-1.md
+#         - path: zh/week15/15-2.md
