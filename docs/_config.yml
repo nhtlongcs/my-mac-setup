@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               'Deep Learning'
-url:                 https://nhtlongcs.github.io/my-mac-setup/
+url:                 https://nhtlongcs.github.io
 baseurl:             '/my-mac-setup' # / + your base url 
 homepage_title:      Home
 default_lang:        'en'
