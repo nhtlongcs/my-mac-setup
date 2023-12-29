@@ -46,8 +46,83 @@ prologues:
   - path: en/faq.md
   - path: en/about.md
 chapters:
+  - path: en/Xcode/README.md
+    sections: []
+  - path: en/Vim/README.md
+    sections: []
+  - path: en/PostgreSQL/README.md
+    sections: []
+  - path: en/iTerm/README.md
+    sections:
+    - path: en/iTerm/autojump.md
+    - path: en/iTerm/tree.md
+    - path: en/iTerm/ack.md
+    - path: en/iTerm/zsh.md
+    - path: en/iTerm/fzf.md
+  - path: en/Docker/README.md
+    sections:
+    - path: en/Docker/UsefulCommands.md
+    - path: en/Docker/TipsAndTricks.md
+  - path: en/SystemPreferences/README.md
+    sections: []
+  - path: en/Go/README.md
+    sections: []
+  - path: en/Heroku/README.md
+    sections: []
+  - path: en/SublimeText/README.md
+    sections:
+    - path: en/SublimeText/SublimeLinter.md
+    - path: en/SublimeText/Plugins.md
+    - path: en/SublimeText/Packages.md
+    - path: en/SublimeText/Preferences.md
+  - path: en/Python/README.md
+    sections:
+    - path: en/Python/ipython.md
+    - path: en/Python/virtualenv.md
+    - path: en/Python/pip.md
+    - path: en/Python/numpy.md
+  - path: en/Security/README.md
+    sections: []
+  - path: en/References/README.md
+    sections: []
+  - path: en/Vagrant/README.md
+    sections: []
+  - path: en/LaTeX/README.md
+    sections: []
+  - path: en/MyySQL/README.md
+    sections: []
+  - path: en/Rust/README.md
+    sections: []
+  - path: en/Homebrew/README.md
+    sections:
+    - path: en/Homebrew/Cask.md
+    - path: en/Homebrew/Usage.md
+  - path: en/Emacs/README.md
+    sections: []
   - path: en/BashCompletion/README.md
     sections: []
+  - path: en/Node.js/README.md
+    sections: []
+  - path: en/Scala/README.md
+    sections: []
+  - path: en/Cpp/README.md
+    sections: []
+  - path: en/Sudo/README.md
+    sections: []
+  - path: en/VisualStudioCode/README.md
+    sections: []
+  - path: en/Apps/README.md
+    sections:
+    - path: en/Apps/Settings.md
+    - path: en/Apps/Octave.md
+  - path: en/Ruby/README.md
+    sections:
+    - path: en/Ruby/RubyGems.md
+  - path: en/Git/README.md
+    sections:
+    - path: en/Git/gitignore.md
+
+
 #  - path: chapters/end.md
 
 # ################################### Mandarin ###################################

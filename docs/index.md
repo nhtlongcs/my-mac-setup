@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEEP LEARNING
+title: INTRO
 author: Alfredo Canziani
 lang-ref: home
 ---

@@ -1,9 +1,8 @@
 ---
 title: Bash Completion
-lang-ref: bash-completion
+lang-ref: Bash Completion
 ---
 
-# Bash Completion
 
 Bash completion is a bash function that allows you to auto complete commands or
 arguments by typing partially commands or arguments, then pressing the [Tab]
@@ -63,5 +62,5 @@ And you can install them using `brew install` commands, for example:
 brew install docker-completion
 ```
 
-_You can also manually add a bash completion file into
-`/usr/local/etc/bash_completion.d`_
+*You can also manually add a bash completion file into
+`/usr/local/etc/bash_completion.d`*
